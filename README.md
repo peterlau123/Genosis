@@ -33,6 +33,10 @@ Rust 的所有权与借用检查在编译期消除内存安全错误，为"确�
 
 🚧 Work in progress — 正在从 bare metal 逐层构建。
 
+## References
+
+- [Omarchy](https://github.com/omacom/omarchy) — Beautiful, Modern & Opinionated Linux（DHH 发起）。作为 Genosis 的**设计理念参考**：它展示了"有主见的（opinionated）"系统设计如何通过清晰的取舍与美学追求，塑造一个既现代又易用的 Linux 体验；Genosis 在追求确定性内核的同时，参考其在系统结构、工具链与用户体验上的现代实践。
+
 ## License
 
 MIT
