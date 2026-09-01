@@ -1,0 +1,8 @@
+[package]
+name = "genosis"
+version = "0.1.0"
+edition = "2024"
+description = "Building absolute deterministic truth from bare metal. Rust impl of OS."
+license = "MIT"
+
+[dependencies]
